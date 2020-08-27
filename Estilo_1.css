@@ -1,0 +1,35 @@
+body {
+   
+    background-color: #46efa5;
+    padding: 0 400px 20px 20px;
+    border: 3px solid white;
+    text-align: center;
+}
+h1 {
+    margin:0;
+    padding: 20px 0;
+    color: #fcfcfc;
+    text-shadow: 3px 3px 2px black;
+}
+p {
+    color:#001b0f;
+    text-family: "Verdana";
+}
+.contenido{
+    width: 80%
+    color: #EDF00E;
+}
+ol, ul, li {
+    color: #1F7C16;
+    front-family: "Arial";
+}
+table {
+    width: 95%
+    border: 1px solid #000000;
+    border-radius: 20px;
+    align: center;
+    color: white;
+}
+td {
+    vertical-align: tod;
+}
